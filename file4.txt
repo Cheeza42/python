@@ -1,0 +1,3 @@
+Hello World
+Im Alon and Im learning file operations
+this file is about to be deleted
